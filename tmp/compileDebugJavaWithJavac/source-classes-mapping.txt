@@ -1,0 +1,7 @@
+com/example/myquiz/MainActivity.java
+ com.example.myquiz.MainActivity
+com/example/myquiz/SplashActivity.java
+ com.example.myquiz.SplashActivity
+ com.example.myquiz.SplashActivity$1
+com/example/myquiz/BuildConfig.java
+ com.example.myquiz.BuildConfig
