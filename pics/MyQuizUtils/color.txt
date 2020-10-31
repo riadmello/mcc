@@ -1,0 +1,13 @@
+
+
+	colors
+        -------
+
+   primary - DF1919
+   dark   -  9B1515
+   accent - FFFFFF
+
+
+	gradient- background
+	start - FF512F
+	end - F09819
